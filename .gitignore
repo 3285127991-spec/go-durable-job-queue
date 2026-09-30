@@ -1,0 +1,11 @@
+﻿# Build output
+bin/
+dist/
+
+# Temporary files
+*.tmp
+*.log
+
+# IDE
+.vscode/
+.idea/
