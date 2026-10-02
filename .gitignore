@@ -9,3 +9,10 @@ dist/
 # IDE
 .vscode/
 .idea/
+
+# Local Go build cache (sandboxed environments)
+.gocache/
+
+# Queue data directories
+data/
+data-*/
