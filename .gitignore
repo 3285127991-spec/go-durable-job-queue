@@ -9,3 +9,8 @@ dist/
 # IDE
 .vscode/
 .idea/
+
+# Local build cache and queue data directories
+.gocache/
+data/
+data-*/
